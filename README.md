@@ -4,8 +4,9 @@ BirdCLEF
 The following code is a script developed for Kaggle's BirdCLEEF 2023 competition, it is a machine learning script that processes, trains and evaluates an audio classification model, based on features extracted from audio files. It uses the RandomForestClassifier algorithm to train a model that identifies birdsong in audio recordings.
 
 <p align="center">
-<img src="https://github.com/diovani-dupont/BirdClef2023/assets/109030838/4bb4189d-f7ba-4b5a-83b0-e7129efef103" alt="BirdCleff" width="650">
+<img src="https://github.com/diovani-dupont/BirdClef2023/assets/109030838/54bb64c1-6920-47f5-87e5-c5751b9aa99b" alt="BirdCleff" width="650">
 </p>
+
 
 Project Organization
 ------------
